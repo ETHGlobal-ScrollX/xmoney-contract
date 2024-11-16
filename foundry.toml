@@ -2,7 +2,6 @@
 src = "src"
 out = "out"
 libs = ["lib"]
-rpc_url = "https://scroll-sepolia.blockpi.network/v1/rpc/public"
 
 [profile.dotenv]
 path = ".env"
